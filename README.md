@@ -1,1 +1,9 @@
-NOTE-> I have added the save functinality but if we want to see the tooltips after saving the image so we have to integrate the backend with frontend as well but for now if we want to save the image without so it can be done using save image button
+Steps to run project on local machine
+1) Code the repository
+
+2) Install Node Pakage Manager
+
+3) run the command "npm start"
+
+
+Link to Explanatory Video- https://drive.google.com/file/d/1salTBDMMsM5aXZEoJCAF4mQTltToPLNv/view?usp=sharing
