@@ -8,4 +8,5 @@ Steps to run project on local machine
 
 Link to Explanatory Video- https://drive.google.com/file/d/1salTBDMMsM5aXZEoJCAF4mQTltToPLNv/view?usp=sharing
 
-Hosted Link-https://annotatee.netlify.app/signup
+Hosted Link-https://annotatee.netlify.app/
+
