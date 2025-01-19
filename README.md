@@ -1,0 +1,1 @@
+NOTE-> I have added the save functinality but if we want to see the tooltips after saving the image so we have to integrate the backend with frontend as well but for now if we want to save the image without so it can be done using save image button
